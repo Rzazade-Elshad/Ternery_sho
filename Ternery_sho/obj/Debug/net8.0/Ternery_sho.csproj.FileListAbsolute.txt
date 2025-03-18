@@ -1,0 +1,14 @@
+C:\Users\rzaza\source\repos\Ternery_sho\Ternery_sho\bin\Debug\net8.0\Ternery_sho.exe
+C:\Users\rzaza\source\repos\Ternery_sho\Ternery_sho\bin\Debug\net8.0\Ternery_sho.deps.json
+C:\Users\rzaza\source\repos\Ternery_sho\Ternery_sho\bin\Debug\net8.0\Ternery_sho.runtimeconfig.json
+C:\Users\rzaza\source\repos\Ternery_sho\Ternery_sho\bin\Debug\net8.0\Ternery_sho.dll
+C:\Users\rzaza\source\repos\Ternery_sho\Ternery_sho\bin\Debug\net8.0\Ternery_sho.pdb
+C:\Users\rzaza\source\repos\Ternery_sho\Ternery_sho\obj\Debug\net8.0\Ternery_sho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rzaza\source\repos\Ternery_sho\Ternery_sho\obj\Debug\net8.0\Ternery_sho.AssemblyInfoInputs.cache
+C:\Users\rzaza\source\repos\Ternery_sho\Ternery_sho\obj\Debug\net8.0\Ternery_sho.AssemblyInfo.cs
+C:\Users\rzaza\source\repos\Ternery_sho\Ternery_sho\obj\Debug\net8.0\Ternery_sho.csproj.CoreCompileInputs.cache
+C:\Users\rzaza\source\repos\Ternery_sho\Ternery_sho\obj\Debug\net8.0\Ternery_sho.dll
+C:\Users\rzaza\source\repos\Ternery_sho\Ternery_sho\obj\Debug\net8.0\refint\Ternery_sho.dll
+C:\Users\rzaza\source\repos\Ternery_sho\Ternery_sho\obj\Debug\net8.0\Ternery_sho.pdb
+C:\Users\rzaza\source\repos\Ternery_sho\Ternery_sho\obj\Debug\net8.0\Ternery_sho.genruntimeconfig.cache
+C:\Users\rzaza\source\repos\Ternery_sho\Ternery_sho\obj\Debug\net8.0\ref\Ternery_sho.dll

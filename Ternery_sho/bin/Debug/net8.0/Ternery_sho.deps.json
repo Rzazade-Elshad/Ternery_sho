@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ternery_sho/1.0.0": {
+        "runtime": {
+          "Ternery_sho.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ternery_sho/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
